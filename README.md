@@ -10,7 +10,7 @@
 [3.2]: https://img.icons8.com/fluency/50/000000/instagram-new.png (Visit my instagram)
 
 <!--links-->
-[1]: https://twitter.com/devenderpal15_
+[1]: https://twitter.com/0x15_dev
 [3]: https://www.instagram.com/i.am.dev_/
 
 ## My Stats and More
