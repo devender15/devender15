@@ -8,12 +8,12 @@
 <!--icons-->
 [1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png ( visit my twitter )
 [3.2]: https://img.icons8.com/fluency/50/000000/instagram-new.png (Visit my instagram)
-[3.3]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png ( Visit my Linkedin )
+[5.2]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png ( Visit my Linkedin )
 
 <!--links-->
 [1]: https://twitter.com/0x15_dev
 [3]: https://www.instagram.com/i.am.dev_/
-[4]: https://www.linkedin.com/in/devender-pal-6950ab242/
+[5]: https://www.linkedin.com/in/devender-pal-6950ab242/
 
 
 ## My Stats and More
