@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Devender Pal](https://www.github.com/devender15).
-- 👀 I’m interested in programming and ethical hacking.
-- 🌱 I’m currently learning web development in deep.
+- 👀 I’m a Full Stack Web Developer.
+- 🌱 I’m currently working on an ecommerce project.
 
 ## Social Media Handlers
 [![Twitter][1.2]][1]   [![Instagram][3.2]][3]
