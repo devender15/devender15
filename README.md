@@ -8,10 +8,13 @@
 <!--icons-->
 [1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png ( visit my twitter )
 [3.2]: https://img.icons8.com/fluency/50/000000/instagram-new.png (Visit my instagram)
+[3.3]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png ( Visit my Linkedin )
 
 <!--links-->
 [1]: https://twitter.com/0x15_dev
 [3]: https://www.instagram.com/i.am.dev_/
+[4]: https://www.linkedin.com/in/devender-pal-6950ab242/
+
 
 ## My Stats and More
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devender15&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide=issues&icon_color=AC03FA&border_color=FA0368" />
