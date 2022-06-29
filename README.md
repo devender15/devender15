@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=React&logoColor=white&color=D2FA03)
 ![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=Django&logoColor=white&color=03FA6A)
 ![](https://img.shields.io/badge/BugBounty-Burp-informational?style=flat&logo=Hacking&logoColor=white&color=D2FA03)
-![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=Mysql&logoColor=white&color=7F03FA)
+![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=Postgresql&logoColor=white&color=7F03FA)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Terminal&logoColor=white&color=110702)
 
 <!---
