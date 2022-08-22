@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Devender Pal](https://www.github.com/devender15).
 - 👀 I’m a Full Stack Web Developer.
-- 🌱 I’m currently working on an ecommerce project.
+- 🌱 I make websites using modern technologies.
 
 ## Social Media Handlers
 [![Twitter][1.2]][1]   [![Instagram][3.2]][3]
