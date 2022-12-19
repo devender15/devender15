@@ -1,4 +1,5 @@
-- 👋 Hi, I’m [Devender Pal](https://www.github.com/devender15).
+#👋 Hi, I’m [Devender Pal](https://www.github.com/devender15).
+
 # 💫 About Me:
 👀 I’m a Full Stack Web Developer<br>🔭 I’m currently working on building a Typing Test website for students<br>🌱 I’m currently learning SANITY.IO
 
@@ -19,10 +20,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=devender15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
