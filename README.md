@@ -1,37 +1,28 @@
 - 👋 Hi, I’m [Devender Pal](https://www.github.com/devender15).
-- 👀 I’m a Full Stack Web Developer.
-- 🌱 I make websites using modern technologies.
-
-## Social Media Handlers
-[![Twitter][1.2]][1]   [![Instagram][3.2]][3]
-
-<!--icons-->
-[1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png ( visit my twitter )
-[3.2]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png ( Visit my Linkedin )
-
-<!--links-->
-[1]: https://twitter.com/0x15_dev
-[3]: https://www.linkedin.com/in/devender-pal-6950ab242/
+# 💫 About Me:
+👀 I’m a Full Stack Web Developer<br>🔭 I’m currently working on building a Typing Test website for students<br>🌱 I’m currently learning SANITY.IO
 
 
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0x15_dev) 
 
-## My Stats and More
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devender15&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide=issues&icon_color=AC03FA&border_color=FA0368" />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devender15&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devender15&theme=bear&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devender15&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devender15&layout=compact&theme=jolly&border_color=FA0368&title_color=0397FA)](https://github.com/devender15/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devender15&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-## My Skills
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FA0303)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=texteditor&logoColor=white&color=0384FA)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=03FA6A)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=D2FA03)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=React&logoColor=white&color=D2FA03)
-![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=Django&logoColor=white&color=03FA6A)
-![](https://img.shields.io/badge/BugBounty-Burp-informational?style=flat&logo=Hacking&logoColor=white&color=D2FA03)
-![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=Postgresql&logoColor=white&color=7F03FA)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Terminal&logoColor=white&color=110702)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!---
-devender15/devender15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=devender15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
