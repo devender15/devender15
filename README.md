@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [Devender Pal](https://www.github.com/devender15).
 
 # 💫 About Me:
-👀 I’m a Full Stack Web Developer<br>🔭 I’m currently working on building a Typing Test website for students<br>🌱 I’m currently learning SANITY.IO
+👀 I’m a Full Stack Web Developer<br>🔭 I’m currently working on building a Typing Test website for students<br>🌱 I’m currently learning SANITY.IO <br> 🧠 Contributing to open source daily
 
 
 ## 🌐 Socials:
