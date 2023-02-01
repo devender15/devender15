@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👀 I’m a Full Stack Web Developer<br>🔭 I’m currently working on building a Typing Test website for students<br>🌱 I’m currently improving my Development skills <br> 🧠 Contributing to open source daily
+👀 I’m a Full Stack Web Developer<br>🔭 I’m currently working on building a full stack Typing Test website for students<br>🌱 I’m currently improving my Development skills <br> 🧠 Contributing to open source daily
 
 
 ## 🌐 Socials:
