@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👀 I’m a Full Stack Web Developer<br>🔭 I’m currently learning Strapi<br>🌱 And improving my development skills by buildinb awesome projects <br> 🧠 Contributing to open source daily
+👀 I’m a Full Stack Web Developer<br>🔭 I’m currently learning Strapi<br>🌱 And improving my development skills by building awesome projects <br> 🧠 Contributing to open source daily
 
 
 ## 🌐 Socials:
