@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👀 I’m a Full Stack Web Developer<br>🔭 who is currently building certificate generator site<br>🌱 and improving the development skills by building awesome projects <br> 🧠 and contributing to open source daily <br> 🤝 I’m looking to collaborate with you.
+👀 I’m a Full Stack Web Developer<br>🔭 who is currently working on a realworld project<br>🌱 and improving the development skills by building awesome projects <br> 🧠 and contributing to open source daily <br> 🤝 I’m looking to collaborate with you.
 
 
 ## 🌐 Socials:
