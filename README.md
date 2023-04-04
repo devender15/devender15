@@ -1,6 +1,6 @@
 # 👋 Hello, I’m [Devender Pal](https://www.github.com/devender15).
 
-![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/python-2.gif)
+![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/chill%20scene.gif)
 
 
 
