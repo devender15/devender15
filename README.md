@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-👀 I’m a Full Stack Web Developer<br>🔭 who is currently working on a Typing Competition Website for Students<br>🌱 and improving the development skills by building awesome projects <br> 🧠 and trying to contribute to open source daily <br> 🤝 I’m looking to collaborate with any organisation.
+👀 I’m a Full Stack Web Developer<br>🔭 and currently working on a Typing Competition Website for Students<br>🌱 and improving the development skills by building awesome projects <br> 🧠 and trying to contribute to open source daily <br> 🤝 I’m looking to collaborate with any organisation.
 
 
 ## 🌐 Socials:
