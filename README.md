@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devenderpaI)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_devenderpal_)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devender-pal-6950ab242)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/devenderpal/)
 
